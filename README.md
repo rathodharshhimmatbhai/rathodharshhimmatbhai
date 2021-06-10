@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshrathod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-rathod-9021661b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwVNnMKMbSwybLeOIP3VrPw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshrathod" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh428" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh428" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rathodharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rathodharsh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hr9054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hr9054" height="30" width="40" /></a>
