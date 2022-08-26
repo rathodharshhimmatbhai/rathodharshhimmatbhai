@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Rathod</h1>
-<img src="https://badges.pufler.dev/visits/pritmanvar/pritmanvar">
+<img src="https://komarev.com/ghpvc/?username=rathodharshhimmatbhai">
 <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
