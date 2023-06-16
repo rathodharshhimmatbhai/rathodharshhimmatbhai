@@ -36,7 +36,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rathodharshhimmatbhai&theme=radical&show_icons=true" />
 </div>
   <h2></h2>
- 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rathodharshhimmatbhai&theme=react-dark)
-
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rathodharshhimmatbhai&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true"/>
  <br>
